@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1FOom2YjwthqfDcjWHIgQP2t8EUrOzPJ4
 """
 
-!pip install -q gradio
-!pip install -q transformers
-!pip install -q sentencepiece
-!pip install -q bert-extractive-summarizer 
-!pip install -q parrot
+#!pip install -q gradio
+#!pip install -q transformers
+#!pip install -q sentencepiece
+#!pip install -q bert-extractive-summarizer 
+#!pip install -q parrot
 
 import gradio as gr
 import transformers
