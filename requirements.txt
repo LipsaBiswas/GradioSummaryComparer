@@ -4,4 +4,4 @@ transformers
 sentencepiece
 bert-extractive-summarizer 
 protobuf 
- 
+nltk
